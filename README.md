@@ -1,4 +1,4 @@
-# Hey there, I'm Vikhnesh Vijaykumar  👋
+# Hey there  👋
 ![Banner](banner.svg)
 
 **📍 Location:** Surat, Gujarat, India  

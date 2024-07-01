@@ -1,7 +1,11 @@
-## Hi there 👋
+# Hey there, I'm Vikhnesh Vijaykumar  👋
+
 **📍 Location:** Surat, Gujarat, India  
 **📧 Contact:** vikhneshvijay11@gmail.com  
 **📱 Phone:** 9537560289
+
+## About Me 🌟
+I'm passionate about blending creativity with technology, aiming to solve real-world challenges through innovative solutions. Let's connect and explore the possibilities!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikku11&label=Profile%20views&color=0e75b6&style=flat" alt="vikku11" /> </p>

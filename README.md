@@ -1,4 +1,4 @@
-# Hey there , I'm👋
+
 ![Banner](banner.svg)
 
 **📍 Location:** Surat, Gujarat, India  

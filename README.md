@@ -1,6 +1,5 @@
 
 ![Banner](banner.svg)
-
 **📍 Location:** Surat, Gujarat, India  
 **📧 Contact:** vikhneshvijay11@gmail.com  
 **📱 Phone:** 9537560289

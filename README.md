@@ -8,6 +8,8 @@
 <a href="https://wa.me/919537560289" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">&nbsp;
 <a href="https://www.instagram.com/vikhnesh_vijay" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp;
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikku11&label=Profile%20views&color=0e75b6&style=flat" alt="vikku11" /> </p>
+
 
 
 
@@ -15,7 +17,7 @@
 I'm passionate about blending creativity with technology, aiming to solve real-world challenges through innovative solutions. Let's connect and explore the possibilities!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikku11&label=Profile%20views&color=0e75b6&style=flat" alt="vikku11" /> </p>
+
 
 
 

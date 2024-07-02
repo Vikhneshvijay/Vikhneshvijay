@@ -3,7 +3,12 @@
 **📍 Location:** Surat, Gujarat, India  
 **📧 Contact:** vikhneshvijay11@gmail.com  
 **📱 Phone:** 9537560289
-</br><a href="https://github.com/Vikku11" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</br></br><a href="https://github.com/Vikku11" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+<a href="https://www.linkedin.com/in/vikhnesh/" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;
+<a href="https://wa.me/919537560289" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">&nbsp;
+<a href="https://www.instagram.com/vikhnesh_vijay" target="_blank" rel="noreferrer" margin=20> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp;
+
+
 
 
 # About Me 🌟

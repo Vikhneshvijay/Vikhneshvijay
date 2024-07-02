@@ -18,7 +18,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Government Engineeri
 
 # Languages and Tools:🚀 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,androidstudio,bootstrap,firebase,git,github,ai,pr,ps,mysql,netlify,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,androidstudio,pycharm,bootstrap,firebase,git,github,ai,pr,ps,mysql,netlify,figma&theme=light&perline=6)](https://skillicons.dev)
 
 # Projects 🖥️
 

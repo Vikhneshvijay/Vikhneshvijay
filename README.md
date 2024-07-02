@@ -13,18 +13,21 @@
 
 
 
-# About Me 🌟
+## About Me 🌟
 I'm currently pursuing my Bachelor's in Computer Science at Government Engineering College, Patan. I'm passionate about blending creativity with technology, aiming to solve real-world challenges through innovative solutions. I am committed to continuous learning, regularly exploring new technologies  to broaden my knowledge and expertise. Let's connect and explore the possibilities!
 
-# Languages and Tools:🚀 
+## Languages and Tools:🚀 
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,c,androidstudio,pycharm,bootstrap,firebase,git,github,ai,pr,ps,mysql,netlify,figma&theme=light&perline=9)](https://skillicons.dev)
 
-# Projects 🖥️
+## Projects 🖥️
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vikku11&repo=GECP-sports&show_owner=true)](https://github.com/Vikku11/GECP-sports)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vikku11&repo=presentza&show_owner=true)](https://github.com/Vikku11/presentza)
 
+
+## Random Dev Quote✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 

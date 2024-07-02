@@ -3,7 +3,7 @@
 **📍 Location:** Surat, Gujarat, India  
 **📧 Contact:** vikhneshvijay11@gmail.com  
 **📱 Phone:** 9537560289
-<a href="https://github.com/Vikku11" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+</br><a href="https://github.com/Vikku11" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 
 # About Me 🌟

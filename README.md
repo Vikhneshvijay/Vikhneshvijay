@@ -24,6 +24,8 @@ I'm currently pursuing my Bachelor's in Computer Science at Government Engineeri
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vikku11&repo=GECP-sports&show_owner=true)](https://github.com/Vikku11/GECP-sports)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vikku11&repo=presentza&show_owner=true)](https://github.com/Vikku11/presentza)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vikku11&repo=My-Portfolio&show_owner=true)](https://github.com/Vikku11/My-Portfolio)
+
 
 
 ## Random Dev Quote✍️
